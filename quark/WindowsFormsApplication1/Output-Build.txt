@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Quark, Configuration: Debug Any CPU ------
+1>E:\quark\WindowsFormsApplication1\WindowsFormsApplication1\Form1.Designer.cs(105,48,105,58): warning CS0169: The field 'Quark.toolStrip1' is never used
+1>  Quark -> E:\quark\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Quark.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
